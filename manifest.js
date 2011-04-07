@@ -159,7 +159,7 @@
         },
         {
             "name": "Collin_ph Battery Tweak For Evo",
-            "file": "RomManager/WarmTwoPointTwo/RLS2/Updates/update_Collin_Ph_Battery_Tweak-EVO.zip",
+            "file": "RomManager/WarmTwoPointTwo/RLS2/Updates/update_Collin_Ph_Battery_Tweak-EVO.zip"
         },
         {
             "name": "Stock Android Font",
