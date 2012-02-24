@@ -4,7 +4,6 @@
     "donate": "https://www.paypal.com/cgi-bin/webscr?business=myn_2000@yahoo.com&cmd=_xclick&currency_code=USD&item_name=Android Roms",
     "mirrors": [
         "http://sdx-downloads.com/EVO/devs/myn/",
-        "http://goo-inside.me/myn/",
         "http://myn.ziggy471.com/",
         "http://myn.onicrom.com/",
         "http://chiznillen.net/myn/"
